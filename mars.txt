@@ -2,4 +2,5 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the mummy will appreciate the lack of humidity
 Let's figure out how to get to Mars first
-Ece's new line added
+
+Conflict has been resolved by change both lines into this one. 
