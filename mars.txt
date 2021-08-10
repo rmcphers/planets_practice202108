@@ -6,3 +6,5 @@ Let's figure out how to get to Mars first
 Conflict has been resolved by change both lines into this one. 
 
 This is my edit
+
+This is another branch
